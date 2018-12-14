@@ -1,0 +1,33 @@
+.color-item-container {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bgView {
+  width: 80%;
+  height: 30px;
+  margin: 16px 0px;
+  border: .5px solid #CCCCCC;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  .color {
+    flex: 1;
+  }
+  .title {
+    flex: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #555555;
+  }
+  .selectTt {
+    color: #D9B878;
+  }
+}
+.selectBg {
+  border-color: #D9B878;
+}

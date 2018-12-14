@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>返回 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="78" y="79" width="194" height="28" rx="5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-瀑布" transform="translate(-252.000000, -90.000000)">
+            <g id="Rectangle-5">
+                <use fill="#F7F7F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#CCCCCC" stroke-width="0.5" x="77.75" y="78.75" width="194.5" height="28.5" rx="5"></rect>
+            </g>
+            <g id="返回-copy" transform="translate(258.000000, 93.500000) scale(-1, 1) translate(-258.000000, -93.500000) translate(252.000000, 90.000000)" fill="#EBC666">
+                <g transform="translate(6.000000, 3.500000) scale(-1, 1) rotate(90.000000) translate(-6.000000, -3.500000) translate(2.500000, -2.500000)" id="Shape">
+                    <path d="M5.77645026,11.8438593 C5.63215002,11.8440181 5.49395872,11.7856294 5.39348976,11.6820505 L0.156267596,6.29508607 C-0.045364627,6.08777615 -0.045364627,5.75764067 0.156267596,5.55033076 L5.39348976,0.163564103 C5.59909364,-0.0479391417 5.93722576,-0.0527215277 6.14872901,0.152882344 C6.36023225,0.358486217 6.36501464,0.696618343 6.15941077,0.908121588 L1.28418121,5.92280732 L6.15941077,10.9372952 C6.30916486,11.0911866 6.35219365,11.3197991 6.2686348,11.517604 C6.18507595,11.7154088 5.99117995,11.843937 5.77645026,11.8438593 Z" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

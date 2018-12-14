@@ -1,0 +1,15 @@
+.model-row-item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #EEEEEE;
+  
+  .itemDetail {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}

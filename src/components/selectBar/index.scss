@@ -1,0 +1,47 @@
+.select-bar-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  height: 38px;
+  align-items: center;
+  background-color:white;
+  z-index: 100;
+  position: fixed;
+  .content {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    .item{
+      display: flex;
+      width: 72px;
+      height: 100%;
+      align-items: center;
+      justify-content: center;
+      
+    }
+    .itemTitle {
+      font-size: 14px;
+      color: #555555;
+      height: 100%;
+    }
+    .select {
+      font-size: 16px;
+      color: #EBC666;
+      border-bottom:  2px solid #EBC666;
+    }
+  }
+  .save {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 16px;
+    width: 66px;
+    height: 30px;
+    background: #EBC666;
+    border-radius: 100px;
+    color: white;
+    font-size: 16px;
+  }
+}

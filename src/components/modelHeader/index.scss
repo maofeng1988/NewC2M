@@ -1,0 +1,50 @@
+.b4w {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+  }
+  div#prelod_static_path {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 395px;
+    height: 10%;
+    -webkit-transform: translate(-50%, -40%);
+    transform: translate(-50%, -40%);
+  }
+  div#prelod_dynamic_path {
+    background-image: url("../../loader/loader_bar_line.png");
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0%;
+    height: 100%;
+  }
+  div#preloader_cont {
+    background-color: rgb(0, 0, 0);
+    bottom: 20%;
+    height: 20%;
+    position: absolute;
+    visibility: hidden;
+    width: 100%;
+  }
+  div#logo_container {
+    height: 112px;
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+  
+    // background-image: url("../../loader/logo.png");
+  }
+  .dContainer {
+    display: flex;
+    height: 120vw;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 100;
+  }
